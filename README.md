@@ -31,6 +31,15 @@ c. python is thop
 ![Image of jntuk] {  https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.ytimg.com%2Fvi%2FxPGH1RGqy9Y%2Fmaxresdefault.jpg&imgrefurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DxPGH1{}
 ## how to link wewsite
 
-[click here to go to hell]{       }
+[click here to go to hell]{http://www.vignaniit.edu.in/}
 
 ## how to link videos
+
+[click here to access youtube] {https://www.youtube.com/watch?v=sq8ISpdiaLc}
+## how to create a table
+##My profile
+|NAME|EMAIL|MOBILE|PROFESSION|LOCATION|
+|-----|----|------|----------|--------|
+|PRUDHVI|PRUDHVINARAYANA2002@GMAIL.COM|7702640187|STUDENT|SHEELANAGAR|
+  
+  *****THANK YOU*****
